@@ -170,3 +170,7 @@ venv.bak/
 /dataset/sample_submission.csv
 /.idea/
 /.idea/vcs.xml
+/ames_prediction_test.slides.html
+/ames_prediction.slides.html
+/models/
+/predictions/
